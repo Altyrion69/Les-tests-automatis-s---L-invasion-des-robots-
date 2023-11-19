@@ -43,7 +43,7 @@ class CalculatorTest extends TestCase
     public function testIsEven(): void
     {
         //Arrange
-        $first = 1;
+        $first = 10;
         $expectedResult = true;
         
         //Act
